@@ -110,7 +110,7 @@ body {
     margin: 40px auto;
     padding: 30px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
     max-width: 900px;
     border: 1px solid var(--medium-gray);
 }
@@ -135,7 +135,7 @@ body {
     height: auto;
     margin: 10px auto;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
 }
 
 .project-video {
@@ -144,7 +144,7 @@ body {
     height: 500px;
     margin: 10px auto;
     border-radius: 8px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 1);
 }
 
 .project-description-header {
@@ -160,7 +160,7 @@ body {
     margin: 40px auto;
     padding: 30px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
     max-width: 700px;
     font-family: 'Arial', sans-serif;
     border: 1px solid var(--medium-gray);
@@ -253,7 +253,7 @@ body {
     margin: 20px auto;
     padding: 20px;
     border-radius: 8px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, .5);
     max-width: 900px;
     border: 1px solid var(--medium-gray);
 }
@@ -285,7 +285,7 @@ body {
 }
 
 .project, .contact-form, .index-content {
-    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 10px 10px rgba(0, 0, 0, .5);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -368,7 +368,7 @@ h1, h2, h3 {
     width: 100%;
     max-width: 640px;
     border: none;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 1);
     border-radius: 8px;
 }
 
